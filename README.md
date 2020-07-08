@@ -1,5 +1,5 @@
 ### Hi, I'm Anže! 👋
-A dad and a software architect with a passion for photography 📷 and music 🎸. These are my thoughts and opinions, sometimes accompanied by code and photos. When I'm not on (Twitter)[https://twitter.com/avodovnik] I write on my (Blog)[https://vodovnik.com]. He/Him.
+A dad and a software architect with a passion for photography 📷 and music 🎸. These are my thoughts and opinions, sometimes accompanied by code and photos. When I'm not on [Twitter](https://twitter.com/avodovnik) I write on my [Blog](https://vodovnik.com). He/Him.
 
 <!--
 **avodovnik/avodovnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
